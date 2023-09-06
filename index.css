@@ -1,0 +1,86 @@
+.container_one{
+  border: 2px solid brown;
+  margin: 5px;
+  padding: 5px;
+  width: 1170px;
+  margin-left:  10px;
+}
+nav ul li{
+  display: inline-block;
+  margin-right:200px
+  
+}
+.contact{
+  margin-right: 150px;
+}
+.service{
+  margin-left: 100px;
+}
+
+.container{
+  display: inline-block;
+  display: flex;
+  border: 1px solid white;
+  margin: 5px;
+;
+} 
+.container_three{
+  border: 1px solid white;
+  display: inline-block;
+  display: flex;
+  margin: 5px;
+}
+.container_four{
+  border: 1px solid white;
+  display: inline-block;
+  display: flex;
+  margin: 5px;
+}
+.main{
+  border: 2px solid black;
+  height: fit-content;
+}
+.div_one{
+background-color: aquamarine;
+width: 1500px;
+border: 30px solid aquamarine;
+margin: 5px;
+height: 90px;
+
+}
+.div_two{
+background-color: blue;
+border: 30px solid blue;
+width: 300px;
+height: 90px;
+margin: 5px;
+}
+
+.div_three{
+  background-color: orchid;
+  border: 30px solid orchid;
+  width: 300px;
+  height: 90px;
+  margin: 5px;
+  }
+.div_four{
+    background-color: blue;
+    border: 30px solid blue;
+    width: 1500px;
+    height: 90px;
+    margin: 5px;
+  }
+  .div_five{
+    background-color: palevioletred;
+    border: 30px solid palevioletred;
+    width: 1500px;
+    height: 90px;
+    margin: 5px;
+  }
+  .div_six{
+    background-color: orange;
+    border: 30px solid orange;
+    width: 1500px;
+    height: 90px;
+    margin: 5px;
+  }
